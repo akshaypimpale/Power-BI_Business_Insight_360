@@ -50,3 +50,20 @@ The dashboard utilizes data from two primary sources:
 - **Microsoft Power BI** – Data visualization and dashboard creation  
 - **DAX / DAX Studio** – Data modeling and performance tuning  
 - **MySQL** – Source of structured business data
+
+## Dashboard Screenshots
+
+🔗[home_page](https://github.com/user-attachments/assets/1e7c5cdf-8b9a-4b2a-93e2-6d6174be1efc)
+
+🔗[Finance_view](https://github.com/user-attachments/assets/7446a5ff-dfd7-4faf-ae45-21c47a42193d)
+
+🔗[sales_view](https://github.com/user-attachments/assets/fb8d90ff-f8a7-4d30-917d-cca5aa9cb3cf)
+
+🔗[marketing_view](https://github.com/user-attachments/assets/29480508-c01e-437a-a0f5-75a7c03bd9d5)
+
+🔗[executive_view](https://github.com/user-attachments/assets/38286718-5294-4e66-9443-4c68514e6fb6)
+
+
+
+
+
